@@ -1,6 +1,6 @@
 const users = [
     {
-        username: 'john',
+        username: 'admin',
         password: 'password123admin',
         role: 'admin'
     },
